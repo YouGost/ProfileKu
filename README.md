@@ -1,7 +1,7 @@
 # [Sekilas Tentang Profile Ku](https://startbootstrap.com/template-overviews/freelancer/)
 
 
-## Preview
+## Tampilan
 
 [![Freelancer Preview](https://startbootstrap.com/assets/img/templates/freelancer.jpg)](https://blackrockdigital.github.io/startbootstrap-freelancer/)
 
